@@ -8,15 +8,15 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://quanianitis.com',
-  siteRepo: 'https://github.com/ian-chan-ml/quanianitis.com',
+  siteRepo: 'https://github.com/ian-cq/quanianitis.com',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'contact@quanianitis.com',
-  github: 'https://github.com/ian-chan-ml',
+  github: 'https://github.com/ian-cq',
   linkedin: 'https://www.linkedin.com/in/quan-ian-c',
-  threads: 'https://www.threads.net/quanianitis',
-  instagram: 'https://www.instagram.com/ian_.cq',
+  threads: 'https://www.threads.net/ianqchan',
+  instagram: 'https://www.instagram.com/ianqchan',
   locale: 'en-MY',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
