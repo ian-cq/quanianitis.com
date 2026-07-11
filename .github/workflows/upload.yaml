@@ -91,6 +91,7 @@ jobs:
         with:
           project_id: 'personal-quanianitis'
           workload_identity_provider: 'projects/114204026619/locations/global/workloadIdentityPools/quanianitis/providers/github'
+          service_account: quanianitis-s3-uploader@personal-quanianitis.iam.gserviceaccount.com
 
       - id: 'deploy'
         uses: 'google-github-actions/upload-cloud-storage@v2'
